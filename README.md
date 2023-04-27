@@ -1,6 +1,7 @@
-<h1>👋 Hi, I’m Sambitee Dash </h1>
+<h1> 👋 Hi, I’m Sambitee Dash </h1>
 <br>- 👀 I’m interested in Learning New things.
-<br>- 🌱 I’m currently learning Python.
+<br>- ☘️ I'm Currently learning DSA & Data Analysis.
+<br>- 🌱 Working on Python projects.
 <br>- 💞️ I’m looking forward to get placed in one of the top-notch MNCs.
 
 <h3 align="left">Connect with me:</h3>
