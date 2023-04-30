@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Sambitee Dash </h1>
 <br>- 👀 I’m interested in Learning New things.
-<br>- ☘️ I'm Currently learning Data Structures and Algorithms & Data Analysis.
+<br>- ☘️ I'm Currently learning DSA & Data Analysis.
 <br>- 🌱 Working on Python projects.
 <br>- 💞️ I’m looking forward to get placed in one of the top-notch MNCs.
 
